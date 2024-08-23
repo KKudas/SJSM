@@ -1,2 +1,0 @@
-# SJSM
-Practice for me
